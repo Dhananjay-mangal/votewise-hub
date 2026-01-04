@@ -1,73 +1,51 @@
-# Welcome to your Lovable project
+# 🇮🇳 Voter Awareness & Misinformation Control Platform  
+### Domain: One Nation One Election
 
-## Project info
+A **politically neutral, privacy-first, AI-powered civic-tech platform** designed to educate voters, counter misinformation, and improve public understanding of the **One Nation One Election** concept—while strictly upholding democratic values.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚩 Problem Statement
 
-There are several ways of editing your application.
+How can technology be used to educate voters, counter misinformation, and improve public understanding of **One Nation One Election** while maintaining **political neutrality**, **privacy**, and **democratic integrity**?
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🎯 Solution Overview
 
-Changes made via Lovable will be committed automatically to this repo.
+This platform serves as a **trusted digital awareness hub** that:
+- Educates citizens through clear, unbiased explainers  
+- Identifies and counters misinformation using AI  
+- Provides transparent, source-backed fact verification  
+- Ensures zero political influence or voter profiling  
 
-**Use your preferred IDE**
+The focus is **education, not persuasion**.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🌟 Key Features / USP
 
-Follow these steps:
+- **Citizen-First, Multilingual UX**  
+  Simple, mobile-friendly interface with short explainers, infographics, and FAQs for all voter groups.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Myth vs Fact Engine**  
+  Neutral comparison of common myths and verified facts around One Nation One Election.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **AI-Driven Misinformation Detection**  
+  Real-time identification and analysis of false or misleading content.
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Explainable & Neutral AI**  
+  Transparent fact-checks with reasoning, confidence scores, and verified non-partisan sources.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- **Education, Not Influence**  
+  No political opinions, party promotion, or targeted persuasion.
 
-**Edit a file directly in GitHub**
+- **Privacy-First & Secure**  
+  No political profiling, no behavioral tracking, and encrypted data handling.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Scalable National Platform**  
+  Cloud-ready architecture designed to handle large-scale election-time traffic.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🏗️ System Architecture (High-Level)
